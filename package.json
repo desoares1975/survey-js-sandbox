@@ -20,8 +20,11 @@
   },
   "homepage": "https://github.com/desoares1975/survey-js-sandbox#readme",
   "dependencies": {
+    "ace": "^1.2.0",
     "body-parser": "^1.18.2",
+    "bootstrap": "^3.3.7",
     "express": "^4.16.3",
+    "knockout": "^3.4.0",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
     "react-survey": "^1.7.0",
